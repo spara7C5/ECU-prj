@@ -1,0 +1,6 @@
+[submodule "FBL-CBD0000001"]
+	path = FBL-CBD0000001
+	url = https://github.com/spara7C5/SM-FBL-prj.git
+[submodule "APP-CBD0000001"]
+	path = APP-CBD0000001
+	url = https://github.com/spara7C5/SM-SIP-remote.git
